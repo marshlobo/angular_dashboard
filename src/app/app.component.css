@@ -10,7 +10,8 @@
 .semnumber{
   font-size: 50px;
 }
-.buttonstyle{    
+.buttonstyle{ 
+    background-color: rgb(0, 217, 255); 
     position:absolute;                  
       bottom:0;                          
       left:0;
