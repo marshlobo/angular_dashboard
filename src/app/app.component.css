@@ -1,0 +1,20 @@
+.carddesign{
+  background-color:bisque; 
+  width: 300px; 
+  margin-right: 90%;
+  height: 300px; 
+  margin: auto;
+  box-shadow: 3px 3px 5px 6px #ccc ;
+  
+}
+.semnumber{
+  font-size: 50px;
+}
+.buttonstyle{    
+    position:absolute;                  
+      bottom:0;                          
+      left:0;
+      width: 100%;
+    
+    }
+    
